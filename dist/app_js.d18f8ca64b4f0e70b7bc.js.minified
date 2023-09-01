@@ -20852,7 +20852,7 @@
             alt: "koa",
             title: "koa",
             image: Dt,
-            content: "I use koa professionally and personally for fast APIs.",
+            content: "I use koa professionally and personally to quickly craft useful APIs.",
             website: "https://koajs.com/",
             bgColor: t
         }), i.a.createElement(Pt, {
