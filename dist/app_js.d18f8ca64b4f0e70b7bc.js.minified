@@ -20765,7 +20765,7 @@
         It = n.p + "images/docker.d39d5341d7772222a7882482d7b530b1.png",
         Lt = n.p + "images/ubuntu.3c6826e98563b08fe1bf4df86f0134cf.png",
         qt = n.p + "images/wordpress.058379f1f4f802c31cfcab84f31f19de.png",
-        Dt = n.p + "images/dotnet-core.99681022320b219e8a0669041681b47e.png",
+        Dt = n.p + "images/koa.99681022320b219e8a0669041681b47e.png",
         Ft = be((function(e) {
             return {
                 rounded: {
@@ -20849,11 +20849,11 @@
             container: !0,
             className: e.center
         }, i.a.createElement(Pt, {
-            alt: ".NET Core",
-            title: ".NET Core",
+            alt: "koa",
+            title: "koa",
             image: Dt,
-            content: "I use .NET Core professionally for software development.",
-            website: "https://dotnet.microsoft.com/download/dotnet-core",
+            content: "I use koa professionally and personally for fast APIs.",
+            website: "https://koajs.com/",
             bgColor: t
         }), i.a.createElement(Pt, {
             alt: "React",
