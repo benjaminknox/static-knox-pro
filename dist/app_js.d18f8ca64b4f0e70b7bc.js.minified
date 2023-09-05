@@ -19746,7 +19746,7 @@
         }, i.a.createElement(Pe, {
             container: !0,
             className: e.center
-        }, i.a.createElement("p", null, "Welcome to my personal website. I am a seasoned web application developer with a deep-rooted passion for the world of web development, a journey that began with my early encounters with the internet. Since 2012, I have dedicated myself to honing my craft and have worked in a professional capacity, navigating through an array of programming languages, frameworks, and technology stacks."), i.a.createElement("p", null, "My preferred operating system is one rooted in the Unix philosophy, and I find great affinity in working with macOS as it aligns seamlessly with my development preferences and workflow.")))
+        }, i.a.createElement("p", null, "Welcome to my personal website. I am a seasoned software engineer with a deep-rooted passion for technology, a journey that began with my early encounters with the internet. Since 2012, I have dedicated myself to honing my craft and have worked in a professional capacity, navigating through an array of programming languages, frameworks, and technology stacks."), i.a.createElement("p", null, "My preferred operating system is one rooted in the Unix philosophy, and I find great affinity in working with macOS as it aligns seamlessly with my development preferences and workflow.")))
     }
     var Ie = i.a.forwardRef((function(e, t) {
             var n = e.classes,
